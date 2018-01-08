@@ -4,7 +4,13 @@
 
 ## Build Setup
 
+
 ``` bash
+# install demo
+    npm install vuedemo --save
+   
+    cd vuedemo
+    
 # install dependencies
 npm install
 

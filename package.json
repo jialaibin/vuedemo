@@ -1,6 +1,6 @@
 {
-  "name": "bxB2C",
-  "version": "1.0.0",
+  "name": "vuedemo",
+  "version": "0.0.1",
   "description": "A Vue.js project",
   "author": "jialaibin",
   "main": "res/js/main/main.js",
@@ -13,6 +13,17 @@
     "api": "node cloneapi.js",
     "start": "cross-env NODE_ENV=fe npm run api && npm run server"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jialaibin/vuedemo.git"
+  },
+  "keywords": [
+    "vuedemo"
+  ],
+  "bugs": {
+    "url": "https://github.com/jialaibin/vuedemo/issues"
+  },
+  "homepage": "https://github.com/jialaibin/vuedemo#readme",
   "dependencies": {
     "axios": "^0.16.2",
     "mint-ui": "^2.2.9",
