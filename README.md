@@ -7,8 +7,7 @@
 
 ``` bash
 # install demo
-    npm install vue-demo-test
-   
+    git clone https://github.com/jialaibin/vuedemo.git 
     cd vuedemo
 
 # install dependencies
