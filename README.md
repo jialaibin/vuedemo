@@ -7,10 +7,10 @@
 
 ``` bash
 # install demo
-    npm install vuedemo --save
+    npm install vue-demo-test
    
     cd vuedemo
-    
+
 # install dependencies
 npm install
 
