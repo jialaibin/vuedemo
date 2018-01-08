@@ -1,0 +1,12 @@
+{
+    "isAlreadyCredit": true,
+    "overdue": false,
+    "isOpenAccount": false,
+    "isAuth": true,
+    "isIdCheck": false,
+    "isSigned": true,
+    "isExtraInfoCompleted": true,
+    "isPayPasswordSet": true,
+    "totalAmount": 100000,
+    "rateDesc": "日利率万2"
+}

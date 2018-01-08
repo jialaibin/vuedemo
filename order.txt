@@ -1,0 +1,2 @@
+ccs_operation-fe_static.tar
+init.sh

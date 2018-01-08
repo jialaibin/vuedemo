@@ -1,0 +1,9 @@
+{
+    "resultCode": "2",
+    "resultMessage": "百信银行已放款",
+    "resultExtraMessage": "预计2小时内到账",
+    "amount": "50000",
+    "repaymentAccount": "中信银行（尾号8019）",
+    "tid": "43434900712",
+    "loanTime": "2017/10/26"
+}

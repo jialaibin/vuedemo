@@ -1,0 +1,9 @@
+{
+  "agreements":[{
+  	"agreementId":1101,
+  	"agreementName":"借款额度合同"
+  },{
+  	"agreementId":1102,
+   "agreementName":"委托扣款协议书"
+   }]
+}

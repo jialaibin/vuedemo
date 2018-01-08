@@ -1,0 +1,18 @@
+{
+    "receiptId": "1111",
+    "amount": "15000",
+    "bankCardInfo": "中信银行(尾号8019)",
+    "interestPerDay": "0.03",
+    "startTime": "2017-12-25 08:12",
+    "endTime": "2018-12-25 08:12",
+    "startInterestDay": "2017/12/26",
+    "repaymentDay": "每月25日",
+    "period": "6",
+    "firstRepayment": "834.36",
+    "consumeType": "个人日常消费",
+    "repaymentType": "等额本金",
+    "repaymentAccount": "中信银行(尾号8019)/借款人百信钱包",
+    "borrower": "陈**",
+    "borrowerIdNo": "3625***************",
+    "creditor": "百信银行"
+}

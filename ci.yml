@@ -1,0 +1,14 @@
+Image:
+    type : c65 #default
+BeforeBuild:
+    script :
+Build:
+    script : ./build.sh
+AfterBuild:
+    script :
+Package:
+    script :
+    artifacts:
+        name : application
+        version : $COMMIT_ID-$BUILD_ID
+        files : [./output/A/operation.tar,./output/production/operation.tar] # seperate multiple files by comma

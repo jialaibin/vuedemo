@@ -1,0 +1,64 @@
+{
+    "loanRecordList": [{
+        "receiptId": "xxx",
+        "principal": "5000",
+        "loanStatus": 0,
+        "loanTime": "2017-08-23 14:34",
+        "loanStage": "6"
+    }, {
+        "receiptId": "xxx",
+        "principal": "5001",
+        "loanStatus": 1,
+        "loanTime": "2017-08-23 08:34",
+        "loanStage": "6"
+    }, {
+        "receiptId": "xxx",
+        "principal": "5002",
+        "loanStatus": 3,
+        "loanTime": "2017-08-23 00:34",
+        "loanStage": "6"
+    }, {
+        "receiptId": "xxx",
+        "principal": "5003",
+        "loanStatus": 2,
+        "loanTime": "2017-08-23 12:34",
+        "loanStage": "6"
+    }, {
+        "receiptId": "xxx",
+        "principal": "5004",
+        "loanStatus": 1,
+        "loanTime": "2017-08-23 12:34",
+        "loanStage": "6"
+    }, {
+        "receiptId": "xxx",
+        "principal": "5005",
+        "loanStatus": 1,
+        "loanTime": "2017-08-23 12:34",
+        "loanStage": "6"
+    }, {
+        "receiptId": "xxx",
+        "principal": "5006",
+        "loanStatus": 2,
+        "loanTime": "2017-08-23 12:34",
+        "loanStage": "6"
+    }, {
+        "receiptId": "xxx",
+        "principal": "5007",
+        "loanStatus": 0,
+        "loanTime": "2017-08-23 12:34",
+        "loanStage": "6"
+    }, {
+        "receiptId": "xxx",
+        "principal": "50008",
+        "loanStatus": 3,
+        "loanTime": "2017-08-23 12:34",
+        "loanStage": "6"
+    }, {
+        "receiptId": "xxx",
+        "principal": "5009",
+        "loanStatus": 1,
+        "loanTime": "2017-08-23 12:34",
+        "loanStage": "6"
+    }],
+    "totalSize": 100
+}

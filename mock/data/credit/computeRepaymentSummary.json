@@ -1,0 +1,31 @@
+{
+    "principal": "836.85",
+    "period": "6个月",
+    "totalInterest": "500.82",
+    "interestPerDay": "0.3%",
+    "repaymentPlanList": [{
+        "repaymentDay": "2017-02-23 12:35",
+        "repaymentAmount": "48.81",
+        "repaymentStage": "1"
+    }, {
+        "repaymentDay": "2017-02-23 12:35",
+        "repaymentAmount": "48.81",
+        "repaymentStage": "2"
+    }, {
+        "repaymentDay": "2017-02-23 12:35",
+        "repaymentAmount": "48.81",
+        "repaymentStage": "3"
+    }, {
+        "repaymentDay": "2017-02-23 12:35",
+        "repaymentAmount": "48.81",
+        "repaymentStage": "4"
+    }, {
+        "repaymentDay": "2017-02-23 12:35",
+        "repaymentAmount": "48.81",
+        "repaymentStage": "5"
+    }, {
+        "repaymentDay": "2017-02-23 12:35",
+        "repaymentAmount": "48.81",
+        "repaymentStage": "6"
+    }]
+}

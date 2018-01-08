@@ -1,0 +1,79 @@
+{
+    "repaymentRecordList": [{
+        "stage": "112",
+        "status": 0,
+        "repaymentAmount": "548.90",
+        "repaymentTime": "2017-12-25 08:12"
+    }, {
+        "stage": "113",
+        "status": 1,
+        "repaymentAmount": "548.91",
+        "repaymentTime": "2017-12-25 08:12"
+    }, {
+        "stage": "112",
+        "status": 2,
+        "repaymentAmount": "548.92",
+        "repaymentTime": "2017-12-25 08:12"
+    }, {
+        "stage": "113",
+        "status": 3,
+        "repaymentAmount": "548.93",
+        "repaymentTime": "2017-12-25 08:12"
+    }, {
+        "stage": "112",
+        "status": 1,
+        "repaymentAmount": "548.94",
+        "repaymentTime": "2017-12-25 08:12"
+    }, {
+        "stage": "113",
+        "status": 1,
+        "repaymentAmount": "548.95",
+        "repaymentTime": "2017-12-25 08:12"
+    }, {
+        "stage": "113",
+        "status": 0,
+        "repaymentAmount": "548.96",
+        "repaymentTime": "2017-12-25 08:12"
+    }, {
+        "stage": "113",
+        "status": 2,
+        "repaymentAmount": "548.97",
+        "repaymentTime": "2017-12-25 08:12"
+    }, {
+        "stage": "113",
+        "status": 3,
+        "repaymentAmount": "548.98",
+        "repaymentTime": "2017-12-25 08:12"
+    }, {
+        "stage": "113",
+        "status": 2,
+        "repaymentAmount": "548.99",
+        "repaymentTime": "2017-12-25 08:12"
+    }, {
+        "stage": "113",
+        "status": 1,
+        "repaymentAmount": "549.00",
+        "repaymentTime": "2017-12-25 08:12"
+    }, {
+        "stage": "112",
+        "status": 2,
+        "repaymentAmount": "549.01",
+        "repaymentTime": "2017-12-25 08:12"
+    }, {
+        "stage": "113",
+        "status": 0,
+        "repaymentAmount": "549.02",
+        "repaymentTime": "2017-12-25 08:12"
+    }, {
+        "stage": "112",
+        "status": 3,
+        "repaymentAmount": "549.03",
+        "repaymentTime": "2017-12-25 08:12"
+    }, {
+        "stage": "113",
+        "status": 2,
+        "repaymentAmount": "549.04",
+        "repaymentTime": "2017-12-25 08:12"
+    }],
+    "totalSize": 100
+}

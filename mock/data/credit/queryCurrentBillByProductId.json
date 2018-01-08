@@ -1,0 +1,29 @@
+{
+    "hasRepayment": true,
+    "hasOverdue": 1,
+    "repaymentDay": "2017-12-25 08:12",
+    "repaymentAmount": 101.11,
+    "repaymentFailCode": 0,
+    "repaymentList": [{
+        "stage": "1",
+        "hasOverdue": 3,
+        "repaymentDay": "2017-12-25 08:12",
+        "totalStage": "6",
+        "receiptId": "123129786",
+        "totalAmount": "17.23",
+        "principal": "16.00",
+        "interest": "0.13",
+        "defaultInterest": "0.10"
+    }, {
+        "stage": "2",
+        "hasOverdue": 0,
+        "repaymentDay": "2017-12-25 08:12",
+        " totalStage ": "6",
+        "receiptId": "123129786",
+        "totalAmount": "17.23",
+        "principal": "16.00",
+        "interest": "0.13",
+        "defaultInterest": "0.10"
+    }],
+    "totalSize": "100"
+}
